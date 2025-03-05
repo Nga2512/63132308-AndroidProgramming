@@ -1,4 +1,4 @@
-package qn.edu.test;
+package ntu.anh63133403.test;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("qn.edu.test", appContext.getPackageName());
+        assertEquals("ntu.anh63133403.test", appContext.getPackageName());
     }
 }

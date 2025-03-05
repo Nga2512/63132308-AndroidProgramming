@@ -1,4 +1,4 @@
-package qn.edu.test;
+package ntu.anh63133403.test;
 
 import org.junit.Test;
 

@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "qn.edu.test"
+    namespace = "ntu.anh63133403.test"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "qn.edu.test"
+        applicationId = "ntu.anh63133403.test"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
