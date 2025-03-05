@@ -11,7 +11,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#A11FC5"
+        android:background="#D3C22E"
         android:layout_marginTop="15dp"
         android:padding="5dp"
         android:gravity="center_horizontal"
@@ -23,7 +23,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="Số Thứ Nhất"
-            android:textColor="#1BCADF"
+            android:textColor="#D0A091"
             android:textSize="18dp" />
 
         <EditText
@@ -38,7 +38,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#A11FC5"
+        android:background="#8A7F1D"
         android:layout_marginTop="15dp"
         android:padding="5dp"
         android:gravity="center_horizontal"
