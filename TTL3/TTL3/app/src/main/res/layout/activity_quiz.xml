@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="@drawable/bg_wall">
+
+    <TextView
+        android:id="@+id/tvScore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Điểm: 0"
+        android:textSize="20sp"
+        android:textColor="#4CAF50"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:padding="8dp"/>
+
+    <TextView
+        android:id="@+id/tvQuestion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Câu hỏi"
+        android:textSize="20sp"
+        android:textColor="#212121"
+        android:textStyle="bold"
+        android:layout_marginTop="32dp"
+        android:padding="16dp"
+        android:background="#FFFDE7"
+        android:elevation="4dp"
+        android:gravity="center"
+        android:layout_marginBottom="40dp"
+        android:fontFamily="sans-serif-medium"
+        android:lineSpacingExtra="8dp"/>
+
+    <Button
+        android:id="@+id/btnA"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="A"
+        android:textSize="20sp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/btn_bo"
+        app:backgroundTint="@null"
+        android:layout_marginBottom="20dp"
+        android:elevation="6dp"/>
+
+    <Button
+        android:id="@+id/btnB"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="B"
+        android:textSize="20sp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/btn_bo"
+        app:backgroundTint="@null"
+        android:layout_marginBottom="20dp"
+        android:elevation="6dp"/>
+
+    <Button
+        android:id="@+id/btnC"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="C"
+        android:textSize="20sp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/btn_bo"
+        app:backgroundTint="@null"
+        android:elevation="6dp"/>
+
+</LinearLayout>

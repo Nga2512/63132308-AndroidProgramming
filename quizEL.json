@@ -1,0 +1,104 @@
+{
+  "el_quiz": {
+    "cau1": {
+      "cauhoi": "What is the opposite of 'hot'?",
+      "phuongan": ["Cold", "Warm", "Heat"],
+      "dapan_dung": 0
+    },
+    "cau2": {
+      "cauhoi": "Which word is a noun?",
+      "phuongan": ["Run", "Happiness", "Quickly"],
+      "dapan_dung": 1
+    },
+    "cau3": {
+      "cauhoi": "Choose the correct spelling:",
+      "phuongan": ["Beutiful", "Beautiful", "Beautifull"],
+      "dapan_dung": 1
+    },
+    "cau4": {
+      "cauhoi": "What is the plural of 'mouse'?",
+      "phuongan": ["Mouses", "Mice", "Mouse"],
+      "dapan_dung": 1
+    },
+    "cau5": {
+      "cauhoi": "Which is a color?",
+      "phuongan": ["Apple", "Blue", "Run"],
+      "dapan_dung": 1
+    },
+    "cau6": {
+      "cauhoi": "Which is a question word?",
+      "phuongan": ["Who", "Very", "Big"],
+      "dapan_dung": 0
+    },
+    "cau7": {
+      "cauhoi": "What is the past tense of 'go'?",
+      "phuongan": ["Goes", "Went", "Gone"],
+      "dapan_dung": 1
+    },
+    "cau8": {
+      "cauhoi": "Which word means 'small'?",
+      "phuongan": ["Tiny", "Huge", "Tall"],
+      "dapan_dung": 0
+    },
+    "cau9": {
+      "cauhoi": "What sound does 'ch' make in 'chair'?",
+      "phuongan": ["/ch/", "/sh/", "/k/"],
+      "dapan_dung": 0
+    },
+    "cau10": {
+      "cauhoi": "What is the correct article: ___ apple",
+      "phuongan": ["A", "An", "The"],
+      "dapan_dung": 1
+    },
+    "cau11": {
+      "cauhoi": "What is the synonym of 'happy'?",
+      "phuongan": ["Sad", "Joyful", "Angry"],
+      "dapan_dung": 1
+    },
+    "cau12": {
+      "cauhoi": "Which one is a verb?",
+      "phuongan": ["Quick", "Jump", "Blue"],
+      "dapan_dung": 1
+    },
+    "cau13": {
+      "cauhoi": "Choose the correct plural form:",
+      "phuongan": ["Childs", "Children", "Childes"],
+      "dapan_dung": 1
+    },
+    "cau14": {
+      "cauhoi": "What is the past tense of 'eat'?",
+      "phuongan": ["Eated", "Ate", "Eat"],
+      "dapan_dung": 1
+    },
+    "cau15": {
+      "cauhoi": "Which word is an adjective?",
+      "phuongan": ["Quickly", "Beautiful", "Run"],
+      "dapan_dung": 1
+    },
+    "cau16": {
+      "cauhoi": "What is the opposite of 'easy'?",
+      "phuongan": ["Hard", "Simple", "Slow"],
+      "dapan_dung": 0
+    },
+    "cau17": {
+      "cauhoi": "Choose the correct article: ___ hour",
+      "phuongan": ["A", "An", "The"],
+      "dapan_dung": 1
+    },
+    "cau18": {
+      "cauhoi": "Which word is a preposition?",
+      "phuongan": ["Under", "Happy", "Run"],
+      "dapan_dung": 0
+    },
+    "cau19": {
+      "cauhoi": "Select the correct spelling:",
+      "phuongan": ["Occasion", "Ocassion", "Occassion"],
+      "dapan_dung": 0
+    },
+    "cau20": {
+      "cauhoi": "What is the plural of 'foot'?",
+      "phuongan": ["Foots", "Feet", "Fooot"],
+      "dapan_dung": 1
+    }
+  }
+}
